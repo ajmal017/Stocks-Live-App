@@ -4,8 +4,8 @@ Yum! Brands Coding Challenge Code for Realtime Stocks Application
 
 This is a private repository created only for the purpose of Coding Challenge Submission for Yum! Brands.
 
-
-
+<br />
+<br />
 
 Technology Stack:
 
