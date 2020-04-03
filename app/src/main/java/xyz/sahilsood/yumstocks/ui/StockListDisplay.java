@@ -47,7 +47,7 @@ public class StockListDisplay extends AppCompatActivity implements OnStockClickL
         mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view);
         progressBar = findViewById(R.id.progressBar);
         filterSearch = false;
-        setTitle("Yum! Stocks");
+        setTitle("Stocks Live!");
         stocksViewModel = ViewModelProviders.of(this).get(StocksViewModel.class);
         stocksList = new ArrayList<>();
         progressBar.setVisibility(View.VISIBLE);
